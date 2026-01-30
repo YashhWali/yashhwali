@@ -1,3 +1,31 @@
+<h1 align="center">Hello 👋, I'm Yash Wali</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Student;Java+Developer;Learning+Full+Stack;Building+Projects" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/main/graphics/dev-working.gif" width="500"/>
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 Student  
+- ☕ Java Developer  
+- 🌱 Learning Full Stack Development  
+- 🚀 Passionate about coding & problem solving  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waliyash879@gmail.com) 
